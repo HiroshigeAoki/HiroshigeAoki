@@ -1,5 +1,5 @@
 ### Hi there 👋
 
 
-![](https://github-readme-stats.vercel.app/api?username=HiroshigeAoki&theme=dark&show_icons=true&private=true)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HiroshigeAoki&theme=dark&exclude=Jupyter%20Notebook&private=true)
+![](https://github-readme-stats-3i6b.vercel.app/api?username=HiroshigeAoki&theme=dark&show_icons=true)
+![Top Langs](https://github-readme-stats-3i6b.vercel.app/api/top-langs/?username=HiroshigeAoki&layout=compact&hide=jupyter%20notebook&theme=dark)
